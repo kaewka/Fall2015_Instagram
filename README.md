@@ -1,6 +1,9 @@
-# android-instagram
 
-## Overview
+Android Instagram
+=================
+This is a simple Instagram application.
+
+Time spent: 7 hours spent in total
 
 This is the starter project for the Instagram Client Project. 
 
@@ -15,4 +18,4 @@ This is the starter project for the Instagram Client Project.
 ## Finished Project
 * By the end of the project, you will have built something that looks like the following:
 
-  ![Imgur](http://i.imgur.com/4SWlsQA.gif)
+  ![Video Walkthrough](Instagram1.gif)

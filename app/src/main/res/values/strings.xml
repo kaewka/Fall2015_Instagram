@@ -7,5 +7,6 @@
     <string name="caption">Caption</string>
     <string name="username">Username</string>
     <string name="post_date">Post Date</string>
-
+    <string name="title_activity_comments">Comments</string>
+    <string name="comments">COMMENTS</string>
 </resources>

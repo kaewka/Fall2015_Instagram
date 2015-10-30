@@ -13,4 +13,4 @@ Completed user stories:
  * [x] Required: Display each user profile image as a circle.
  * [x] Required: Display a nice default placeholder graphic for each image during loading.
 
-  ![Video Walkthrough](Instagram1.gif)
+  ![Video Walkthrough](Instagram2.gif)
